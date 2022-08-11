@@ -1,7 +1,7 @@
 {
   "name": "cryptoapp",
   "version": "0.1.0",
-  "homepage": "https://kesevan626.github.io/crypto-app",
+  "homepage": "https://kesevan626.github.io/kesevan626/cryptoapp",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
